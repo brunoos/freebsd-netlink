@@ -1,3 +1,8 @@
+## Introduction
+This repository provides a collection of practical examples for utilizing the Netlink protocol on FreeBSD.
+
+The goal of this project is to offer a clear reference for developers looking to understand the FreeBSD-specific Netlink implementation and transition Linux-based Netlink knowledge to the FreeBSD environment.
+
 ## Example 01
 
 How to register a new generic netlink family on FreeBSD.
